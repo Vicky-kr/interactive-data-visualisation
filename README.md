@@ -1,4 +1,7 @@
 # interactive-data-visualisation
+## All Charts shown are interactive
+![](./charts/5076A668-2863-40F5-BF0C-D5DBE3DC61B9.gif)
+
 ```python
 fig = px.scatter(df,
                  x="Total.Number",
